@@ -1,0 +1,22 @@
+{
+  "name": "rosa",
+  "version": "0.0.1",
+  "description": "Backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/phind/rosa.git"
+  },
+  "author": "",
+  "license": "BSD",
+  "dependencies": {
+    "restify": "~2.3.4",
+    "async": "~0.2.7",
+    "sugar": "~1.3.8",
+    "mongoosastic": "0.0.12",
+    "mongoose": "~3.6.4"
+  }
+}
